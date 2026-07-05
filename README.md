@@ -1,4 +1,3 @@
-# Healthy Lab Website v2
+# Healthy Lab Website
 
-Static website for Healthy Lab by Alexandra Miliou.
-Hosted on GitHub Pages.
+Έκδοση με ενσωματωμένες εικόνες και hero text: Η διατροφή σας, σχεδιασμένη για εσάς.
