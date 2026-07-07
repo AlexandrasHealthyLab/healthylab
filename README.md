@@ -1,1 +1,3 @@
-Healthy Lab final project — exact design with requested small updates.
+# Healthy Lab Website
+
+Static website for Healthy Lab by Alexandra Miliou.
