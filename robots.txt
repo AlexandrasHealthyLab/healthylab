@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://healthy-lab.gr/sitemap.xml
