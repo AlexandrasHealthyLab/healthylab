@@ -1,3 +1,3 @@
-Healthy Lab website v4 reset
+# Healthy Lab Final Exact Updates
 
-Ανέβασε όλα τα αρχεία στο root του repository.
+Ίδιο final project με μικρές αλλαγές: λίγο μεγαλύτερο logo πάνω/κάτω, σωστό link αξιολόγησης, αφαίρεση FAQ για Βόλο.
