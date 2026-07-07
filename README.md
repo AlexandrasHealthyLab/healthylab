@@ -1,3 +1,3 @@
-# Healthy Lab
+Healthy Lab website v4 reset
 
-Self-contained website. Upload index.html, CNAME and README.md to GitHub Pages.
+Ανέβασε όλα τα αρχεία στο root του repository.
